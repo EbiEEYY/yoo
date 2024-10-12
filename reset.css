@@ -1,0 +1,13 @@
+* {
+  text-decoration: none;
+}
+body {
+  margin: 0;
+  background-color: #222831;
+  color: #eee;
+  width: 1440px;
+}
+.header {
+  padding: 54px 0px 47px 0px;
+  border-bottom: 1px #d9d9d9 solid;
+}
